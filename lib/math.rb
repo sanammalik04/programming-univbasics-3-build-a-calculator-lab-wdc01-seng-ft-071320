@@ -29,7 +29,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-result = num**
-puts result
-sum 
+  result = num**
+  puts result
+  result 
 end
