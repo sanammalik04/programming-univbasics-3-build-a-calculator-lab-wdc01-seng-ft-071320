@@ -12,19 +12,20 @@ end
 
 def division(num1, num2)
   dividend = num1 / num2
-  puts sum
+  puts dividend
+  dividend
 end
 
 def multiplication(num1, num2)
-  sum = num1 * num2
-  puts sum 
-  
+  quotient = num1 * num2
+  puts quotient 
+  quotient
 end
 
 def modulo(num1, num2)
-sum = num2%num1
-puts sum 
-sum 
+  remainder = num2%num1
+  puts remainder 
+  remainder 
 end
 
 def square_root(num)
