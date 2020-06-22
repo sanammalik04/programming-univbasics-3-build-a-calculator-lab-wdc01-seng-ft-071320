@@ -29,5 +29,7 @@ sum
 end
 
 def square_root(num)
-
+sum = ** num
+puts sum 
+sum 
 end
