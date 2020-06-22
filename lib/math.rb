@@ -29,8 +29,7 @@ sum
 end
 
 def square_root(num)
-num = num1
-sum = **num1
+sum = **num
 puts sum
 sum 
 end
